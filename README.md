@@ -25,7 +25,7 @@ A Python implementation of the classic card game **Crazy Eights**, where a playe
 6. Play multiple rounds until you choose to exit.
 
 ## Tech Stack
-- **Python
+- Python 3
 - Object-Oriented Programming (OOP) for `Card` class and deck/hand logic.
 - Randomization for shuffling and card draws.
 
